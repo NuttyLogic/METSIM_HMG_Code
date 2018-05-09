@@ -1,0 +1,33 @@
+weight	B: Weight (kg)	
+waist	B: Waist (cm)	
+hip	B: Hip (cm)	
+RZ	B: Bioimpedance: Resistance	
+XC	B: Bioimpedance: Reactance	
+fmass	B: Bioimpedance: Fat mass (%)	
+ffmass	B: Bioimpedance: Fat free mass (%)	
+mmass	B: Bioimpedance: Muscle mass (%)	
+S_totalc	B: Total cholesterol (mmol/l)	
+S_ldlc	B: LDL cholesterol (mmol/l)	
+S_hdlc	B: HDL cholesterol (mmol/l)	
+S_tottg	B: Total triglycerides (mmol/l)	
+P_gl0	B: OGTT fasting plasma glucose (mmol/l)	
+P_ins0	B: OGTT fasting plasma insulin (mU/l)	
+P_ins30	B: OGTT 30 min plasma insulin (mU/l)	
+P_ins120	B: OGTT 120 min plasma insulin (mU/l)	
+P_proi0	B: OGTT fasting plasma proinsulin (pmol/l)	
+P_proi12	B: OGTT 120 min plasma proinsulin (pmol/l)	
+P_ffa0	B: OGTT fasting plasma FFA (mmol/l)	
+P_CRP	B: hS-CRP (mg/l)	
+P_IL1RA	B: IL1 receptor antagonist (pg/ml)	
+P_Adipon	B: Plasma adiponectin (ug/ml)	
+B_GHbA1C	B: Blood GHbA1C (%)	
+BMI	B: Body mass index	
+WHR	B: Waist/hip ratio	
+systbp	B: Systolic blood pressure. Mean of 3 measurement. ((systbp0+systbp1+systbp2)/3) (mmHg)	
+diastbp	B: Diastolic blood pressure. Mean of 3 measurement. ((diastbp0+diastbp1+diastbp2)/3) (mmHg)	
+glauc	B: Plasma glucose area under the curve (OGTT) (mmol/l * min)	
+matsuda	B: Matsuda ISIcomp (mg/dl, mU/l)	
+HOMAIR	B: Insulin resistance index based on HOMA (Matthews 1985, Levy 1998)	
+HOMAIS	B: Insulin secretion index based on HOMA (Matthews 1985)	
+QUICKI	B: QUICKI = 1/(LG10(P_ins0) + LG10(P_gl0))  (mU/l, mmol/l)	
+GFR	B: Glomerular filtration rate: 32.788 * (S_Krea**-1.154) * (age**-0.203).	
